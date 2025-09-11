@@ -10,6 +10,10 @@ This repo covers Java basics with working examples. As I go deeper into DSA, I'l
 - Variables and data types
 - Input/Output in Java
 - Writing clean comments
+- Sum of two
+- Product of two
+- Area of circle
+- Type Casting, Converion & Promotion
 
 More topics (like arrays, recursion, OOP, and DSA problems) coming soon.
 
