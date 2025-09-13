@@ -13,6 +13,7 @@ This repo covers Java basics with working examples. As I go deeper into DSA, I'l
 - Type Casting, Converion & Promotion
 - Simple Programs (Sum, Product, Area, etc.)
 - Operators
+- Conditional Statements
 
 More topics (like arrays, recursion, OOP, and DSA problems) coming soon.
 
